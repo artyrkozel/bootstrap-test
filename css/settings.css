@@ -1,0 +1,29 @@
+p {
+    font-size: 14px;
+}
+
+.btn{
+    font-size: 14px;
+    border: none;
+    border-radius: 7px;
+}
+
+.btn-primary {
+    color: #233148;
+    background-color: #00fff0;
+}
+
+.btn-primary:hover {
+    background-color: #000;
+    color: #00fff0;
+}
+
+.btn-outline-dark {
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+.btn-outline-dark:hover {
+    background-color: #fff;
+    color: #000
+}

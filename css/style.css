@@ -1,0 +1,40 @@
+@import url("./settings.css");
+
+* {
+    font-family: 'Dosis', sans-serif;
+}
+
+.header{
+    background-color: #223047;
+}
+
+.header__title{
+    font-size: 40px;
+    color: #fff;
+    margin-bottom: 60px;
+}
+
+.header__description{
+    color: #97a4be;
+    margin-bottom: 65px;
+    line-height: 2;
+}
+
+.header__image{
+    position: absolute;
+    top: 85px;
+}
+
+.navbar {
+    border-bottom: 1px solid #4e596c;
+}
+.nav-link{
+    color: #fff;
+    font-size: 14px;
+}
+
+.preview {
+    position: relative;
+    padding: 130px 0 110px 0;
+    margin-bottom: 110px;    
+}
