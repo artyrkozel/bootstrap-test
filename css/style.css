@@ -22,7 +22,7 @@
 
 .header__image{
     position: absolute;
-    top: 85px;
+    top: 150px;
 }
 
 .navbar {
@@ -35,6 +35,39 @@
 
 .preview {
     position: relative;
-    padding: 130px 0 110px 0;
-    margin-bottom: 110px;    
+    padding: 200px 0 110px 0;
+}
+
+.services {
+    padding: 210px 0 120px 0;
+}
+
+.services-wrapper {
+    margin-top: 75px
+}
+
+.services-title {
+    margin-bottom: 80px;
+}
+
+.services-item{
+    padding: 40px 32px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    border: 3px solid #f7f8f8;
+    line-height: 2;
+    cursor: pointer;
+}
+
+.item-info-dicr {
+    color: #97a4be;
+    font-size: 14px;
+}
+
+.item-icon{
+    margin-bottom: 40px;
+}
+
+.item-info-title{
+    margin-bottom: 33px;
 }

@@ -2,8 +2,21 @@ p {
     font-size: 14px;
 }
 
+h2 {
+    font-size: 30px;
+    color: #233148;
+    line-height: 2;
+}
+
+h3 {
+    color: #383252;
+    font-size: 13px;
+    font-weight: bold;
+}
+
 .btn{
     font-size: 14px;
+    padding: 12px 30px;
     border: none;
     border-radius: 7px;
 }
@@ -26,4 +39,11 @@ p {
 .btn-outline-dark:hover {
     background-color: #fff;
     color: #000
+}
+
+.divider{
+    display: block;
+    background-color: #19ebe9;
+    height: 4px;
+    width: 100px;
 }
